@@ -1,6 +1,6 @@
 
 
-# tikeffectthtml = r'''<!DOCTYPE html>
+# tikeffectthtml = <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
